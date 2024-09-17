@@ -1,1 +1,0 @@
-var posts=["2023/04/12/hello-world/","2023/04/12/我的第一个博客文章/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
